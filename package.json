@@ -1,0 +1,23 @@
+{
+  "name": "ottodigital",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kunjatt/ottodigital.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kunjatt/ottodigital/issues"
+  },
+  "homepage": "https://github.com/kunjatt/ottodigital#readme",
+  "devDependencies": {
+    "cypress": "^12.2.0"
+  }
+}
